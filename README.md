@@ -1,3 +1,5 @@
+# BTAP Solution Sets 
+
 This repository contains outputs of simulation runs that examines cost-effective paths to high performance buildings 
 from the Building Technology Assement Platform (BTAP) developed by Natural Resources Canada's CanmetENERGY Ottawa 
 Housing and Buildings Group.
