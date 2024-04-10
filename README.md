@@ -40,7 +40,7 @@ computing to generate over one hundred thousand solutions for the buildings unde
 
 The high level results for this are contained in the [zipped csv](data/solutions_sets.zip) file that you can download and examine. 
 
-To better visualize the data, a [Tableau dashboard](https://public.tableau.com/app/profile/sara.gilani/viz/Solutions_IncrementalCapitalCost_PercentBetter/DB_Solutions_IncrementalCost_PercentBetter?publish=yes) was created to explore the solution space. 
+To better visualize the data, a [Tableau dashboard](https://public.tableau.com/app/profile/sara.gilani/viz/BTAP-Solution-Sets/DB_SolutionSets?publish=yes) was created to explore the solution space. 
 
 ![image](images/tableau1.png)
 
