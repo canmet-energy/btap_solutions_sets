@@ -42,7 +42,7 @@ The high level results for this are contained in the [zipped csv](data/solutions
 
 To better visualize the data, a [Tableau dashboard](https://public.tableau.com/app/profile/sara.gilani/viz/BTAP-Solution-Sets/DB_SolutionSets?publish=yes) was created to explore the solution space. 
 
-![image](images/tableau1.png)
+![image](images/Tableau1.png)
 
 You can use the radio buttons to filter in or out technologies to show the incremental cost and energy savings.  You can 
 hover your mouse over each datapoint to view the technologies used in that "package". 
