@@ -91,4 +91,4 @@ Here are links to all the reports generated for 60 buildings. 6 cities, 5 buildi
 | **HighriseApartment**       	| **NaturalGas**              	| [pdf](reports/HighriseApartment_NaturalGas_YVR_sens.pdf)        	 | [pdf](reports/HighriseApartment_NaturalGas_YYZ_sens.pdf)         	 | [pdf](reports/HighriseApartment_NaturalGas_YUL_sens.pdf)             	 | [pdf](reports/HighriseApartment_NaturalGas_YEG_sens.pdf)        	 | [pdf](reports/HighriseApartment_NaturalGas_YMM_sens.pdf)                  	 | [pdf](reports/HighriseApartment_NaturalGas_YZF_sens.pdf)              	 |
 
 ## Known Issues
-In the last update with NREL's Openstudio and EnergyPlus. There were discrepencies in HeatPump and SHW Pump Energy. These will be updated by April 30th, 2024
+In the last update with NREL's Openstudio and EnergyPlus. There were discrepencies in HeatPump and SHW Pump Energy. These will be updated soon
